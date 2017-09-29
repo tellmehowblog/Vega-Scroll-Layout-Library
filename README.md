@@ -1,7 +1,7 @@
 # Vega-Scroll-Layout-Library
 It is is a lightweight animation flowlayout which fade and shrink the head itemView when scrolling.
 
-![Tell Me How]({{site.baseurl}}/http://www.tellmehow.co/wp-content/uploads/2017/09/capture.gif)
+## [See demo here](http://www.tellmehow.co/wp-content/uploads/2017/09/capture.gif)
 
 # Idea about Vega Scroll Layout
 
