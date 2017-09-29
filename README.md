@@ -1,6 +1,8 @@
 # Vega-Scroll-Layout-Library
 It is is a lightweight animation flowlayout which fade and shrink the head itemView when scrolling.
 
+![Tell Me How]({{site.baseurl}}/http://www.tellmehow.co/wp-content/uploads/2017/09/capture.gif)
+
 # Idea about Vega Scroll Layout
 
 In this project we use RecyclerView at top of the itemView, with the fingers slide to achieve shrink hiding and magnification display, and with the recycler recycling and reuse.
